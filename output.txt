@@ -1,0 +1,63 @@
+------ Running K means for experiment no. 1 for k = 3
+running iteration 0
+running iteration 1
+converged
+1:  1511 tweets
+2:  809 tweets
+3:  1609 tweets
+--> SSE : 3462.6709690989337
+
+
+------ Running K means for experiment no. 2 for k = 4
+running iteration 0
+running iteration 1
+running iteration 2
+converged
+1:  1017 tweets
+2:  1166 tweets
+3:  816 tweets
+4:  930 tweets
+--> SSE : 3334.074073638593
+
+
+------ Running K means for experiment no. 3 for k = 5
+running iteration 0
+running iteration 1
+converged
+1:  1526 tweets
+2:  579 tweets
+3:  720 tweets
+4:  758 tweets
+5:  346 tweets
+--> SSE : 3335.8435720039656
+
+
+------ Running K means for experiment no. 4 for k = 6
+running iteration 0
+running iteration 1
+converged
+1:  1317 tweets
+2:  470 tweets
+3:  781 tweets
+4:  447 tweets
+5:  447 tweets
+6:  467 tweets
+--> SSE : 3300.0869043795155
+
+
+------ Running K means for experiment no. 5 for k = 7
+running iteration 0
+running iteration 1
+converged
+1:  605 tweets
+2:  452 tweets
+3:  675 tweets
+4:  536 tweets
+5:  762 tweets
+6:  510 tweets
+7:  389 tweets
+--> SSE : 3239.2330115860377
+
+
+
+Process finished with exit code 0
